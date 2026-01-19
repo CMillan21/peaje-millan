@@ -19,7 +19,7 @@ Proyecto desarrollado con Laravel 12, Vue 3 (Inertia) y MySQL, dockerizado con L
 
 3. Ejecutar el script de inicio (Se instalan dependencias y levanta Docker):
    ```bash
-    ./iniciar.sh
+    chmod +x iniciar.sh && ./iniciar.sh
 
 El proyecto se ejcuta el localhost
 En la interfaz solo debe seleccionar el archivo XML a analizar y después dar clic en el botón de Analizar
