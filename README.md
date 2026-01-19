@@ -1,4 +1,37 @@
-<<<<<<< HEAD
+# Prueba Técnica Fullstack - Análisis de Peajes XML
+
+Proyecto desarrollado con Laravel 12, Vue 3 (Inertia) y MySQL, dockerizado con Laravel Sail.
+
+## Requisitos
+- Docker Desktop / Docker Engine
+- Git
+
+## Instalación y Despliegue
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/CMillan21/peaje-millan.git
+
+
+2. Entrar a la carpeta del proyecto
+   ```bash
+     cd peaje-millan
+
+3. Ejecutar el script de inicio (Se instalan dependencias y levanta Docker):
+   ```bash
+    ./iniciar.sh
+
+El proyecto se ejcuta el localhost
+En la interfaz solo debe seleccionar el archivo XML a analizar y después dar clic en el botón de Analizar
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
