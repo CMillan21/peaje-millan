@@ -9,7 +9,7 @@ defineProps({
 
 const file = ref(null)
 
-const handleFile = (event) => {Selec
+const handleFile = (event) => {
     file.value = event.target.files[0]
 }
 
